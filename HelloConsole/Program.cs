@@ -11,6 +11,7 @@ namespace HelloConsole
     {
         static void Main(string[] args)
         {
+            Console.Title = "Hello Console!";
             Console.WriteLine("Hello everyone!!");
             Console.Clear(); //This clears everything in the console window
 
