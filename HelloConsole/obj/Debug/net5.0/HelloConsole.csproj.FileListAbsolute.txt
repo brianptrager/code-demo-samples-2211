@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\bin\Debug\net5.0\HelloConsole.exe
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\bin\Debug\net5.0\HelloConsole.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\bin\Debug\net5.0\HelloConsole.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\bin\Debug\net5.0\HelloConsole.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\bin\Debug\net5.0\HelloConsole.dll
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\bin\Debug\net5.0\ref\HelloConsole.dll
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\bin\Debug\net5.0\HelloConsole.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\obj\Debug\net5.0\HelloConsole.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\obj\Debug\net5.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\obj\Debug\net5.0\HelloConsole.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\obj\Debug\net5.0\HelloConsole.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\obj\Debug\net5.0\HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\obj\Debug\net5.0\HelloConsole.dll
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\obj\Debug\net5.0\ref\HelloConsole.dll
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\obj\Debug\net5.0\HelloConsole.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\HelloConsole\obj\Debug\net5.0\HelloConsole.genruntimeconfig.cache
