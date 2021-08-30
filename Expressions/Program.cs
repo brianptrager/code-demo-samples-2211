@@ -11,8 +11,14 @@ namespace Expressions
     {
         static void Main(string[] args)
         {
+            //Variables
             int num1 = 17;
             double floatNum = 40.5;
+
+            //Constants
+            const int NUM_OF_DAYS_IN_A_WEEK = 7;//You cannot change the original value
+
+            //NUM_OF_DAYS_IN_A_WEEK = 8; cannot change the value
 
             //int add = num1 + floatNum;  Cannot do this!
             int add = num1 + (int)floatNum;
@@ -29,6 +35,8 @@ namespace Expressions
 
             double crazyNum = floatNum++ + (--num1 + num1++);
             Console.WriteLine($"Crazy stuff: {crazyNum}"); //77.5
+
+            Console.WriteLine($"Constant value: {NUM_OF_DAYS_IN_A_WEEK}");
         }
     }
 }
