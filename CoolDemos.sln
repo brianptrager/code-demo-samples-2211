@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloConsole", "HelloConsole\HelloConsole.csproj", "{6985E042-D5E4-4835-A1D5-839220748CF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloConsole", "HelloConsole\HelloConsole.csproj", "{6985E042-D5E4-4835-A1D5-839220748CF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicVariables", "BasicVariables\BasicVariables.csproj", "{AD955456-EE44-4A07-B59B-0256AD77CF85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicVariables", "BasicVariables\BasicVariables.csproj", "{AD955456-EE44-4A07-B59B-0256AD77CF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressions", "Expressions\Expressions.csproj", "{808B64ED-726B-4EFA-8B1C-3380BB0F42BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AD955456-EE44-4A07-B59B-0256AD77CF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD955456-EE44-4A07-B59B-0256AD77CF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD955456-EE44-4A07-B59B-0256AD77CF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808B64ED-726B-4EFA-8B1C-3380BB0F42BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808B64ED-726B-4EFA-8B1C-3380BB0F42BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808B64ED-726B-4EFA-8B1C-3380BB0F42BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808B64ED-726B-4EFA-8B1C-3380BB0F42BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

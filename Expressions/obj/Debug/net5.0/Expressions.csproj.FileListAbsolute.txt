@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\bin\Debug\net5.0\Expressions.exe
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\bin\Debug\net5.0\Expressions.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\bin\Debug\net5.0\Expressions.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\bin\Debug\net5.0\Expressions.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\bin\Debug\net5.0\Expressions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\bin\Debug\net5.0\ref\Expressions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\bin\Debug\net5.0\Expressions.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\obj\Debug\net5.0\Expressions.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\obj\Debug\net5.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\obj\Debug\net5.0\Expressions.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\obj\Debug\net5.0\Expressions.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\obj\Debug\net5.0\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\obj\Debug\net5.0\Expressions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\obj\Debug\net5.0\ref\Expressions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\obj\Debug\net5.0\Expressions.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\Expressions\obj\Debug\net5.0\Expressions.genruntimeconfig.cache
