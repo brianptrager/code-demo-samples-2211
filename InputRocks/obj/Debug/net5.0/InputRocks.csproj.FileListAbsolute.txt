@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\bin\Debug\net5.0\InputRocks.exe
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\bin\Debug\net5.0\InputRocks.deps.json
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\bin\Debug\net5.0\InputRocks.runtimeconfig.json
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\bin\Debug\net5.0\InputRocks.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\bin\Debug\net5.0\InputRocks.dll
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\bin\Debug\net5.0\ref\InputRocks.dll
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\bin\Debug\net5.0\InputRocks.pdb
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\obj\Debug\net5.0\InputRocks.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\obj\Debug\net5.0\InputRocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\obj\Debug\net5.0\InputRocks.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\obj\Debug\net5.0\InputRocks.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\obj\Debug\net5.0\InputRocks.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\obj\Debug\net5.0\InputRocks.dll
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\obj\Debug\net5.0\ref\InputRocks.dll
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\obj\Debug\net5.0\InputRocks.pdb
+C:\Users\bptnbs\source\repos\InputRocks\InputRocks\obj\Debug\net5.0\InputRocks.genruntimeconfig.cache
