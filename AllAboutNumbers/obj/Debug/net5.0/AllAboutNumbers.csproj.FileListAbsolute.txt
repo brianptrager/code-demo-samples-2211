@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\bin\Debug\net5.0\AllAboutNumbers.exe
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\bin\Debug\net5.0\AllAboutNumbers.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\bin\Debug\net5.0\AllAboutNumbers.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\bin\Debug\net5.0\AllAboutNumbers.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\bin\Debug\net5.0\AllAboutNumbers.dll
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\bin\Debug\net5.0\ref\AllAboutNumbers.dll
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\bin\Debug\net5.0\AllAboutNumbers.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\obj\Debug\net5.0\AllAboutNumbers.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\obj\Debug\net5.0\AllAboutNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\obj\Debug\net5.0\AllAboutNumbers.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\obj\Debug\net5.0\AllAboutNumbers.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\obj\Debug\net5.0\AllAboutNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\obj\Debug\net5.0\AllAboutNumbers.dll
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\obj\Debug\net5.0\ref\AllAboutNumbers.dll
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\obj\Debug\net5.0\AllAboutNumbers.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\AllAboutNumbers\obj\Debug\net5.0\AllAboutNumbers.genruntimeconfig.cache

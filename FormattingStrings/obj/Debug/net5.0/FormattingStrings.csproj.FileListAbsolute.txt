@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\bin\Debug\net5.0\FormattingStrings.exe
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\bin\Debug\net5.0\FormattingStrings.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\bin\Debug\net5.0\FormattingStrings.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\bin\Debug\net5.0\FormattingStrings.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\bin\Debug\net5.0\FormattingStrings.dll
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\bin\Debug\net5.0\ref\FormattingStrings.dll
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\bin\Debug\net5.0\FormattingStrings.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\FormattingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\FormattingStrings.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\FormattingStrings.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\FormattingStrings.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\FormattingStrings.dll
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\ref\FormattingStrings.dll
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\FormattingStrings.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\FormattingStrings.genruntimeconfig.cache

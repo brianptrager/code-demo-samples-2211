@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\bin\Debug\net5.0\BasicDecisions.exe
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\bin\Debug\net5.0\BasicDecisions.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\bin\Debug\net5.0\BasicDecisions.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\bin\Debug\net5.0\BasicDecisions.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\bin\Debug\net5.0\BasicDecisions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\bin\Debug\net5.0\ref\BasicDecisions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\bin\Debug\net5.0\BasicDecisions.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\BasicDecisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\BasicDecisions.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\BasicDecisions.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\BasicDecisions.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\BasicDecisions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\ref\BasicDecisions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\BasicDecisions.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\BasicDecisions.genruntimeconfig.cache
