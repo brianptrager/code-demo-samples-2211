@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\bin\Debug\net5.0\ProgramExit.exe
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\bin\Debug\net5.0\ProgramExit.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\bin\Debug\net5.0\ProgramExit.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\bin\Debug\net5.0\ProgramExit.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\bin\Debug\net5.0\ProgramExit.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\bin\Debug\net5.0\ref\ProgramExit.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\bin\Debug\net5.0\ProgramExit.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ProgramExit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ProgramExit.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ProgramExit.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ProgramExit.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ProgramExit.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ref\ProgramExit.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ProgramExit.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ProgramExit.genruntimeconfig.cache
