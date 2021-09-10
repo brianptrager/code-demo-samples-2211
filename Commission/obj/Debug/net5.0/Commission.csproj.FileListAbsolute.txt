@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\bin\Debug\net5.0\Commission.exe
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\bin\Debug\net5.0\Commission.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\bin\Debug\net5.0\Commission.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\bin\Debug\net5.0\Commission.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\bin\Debug\net5.0\Commission.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\bin\Debug\net5.0\ref\Commission.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\bin\Debug\net5.0\Commission.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\obj\Debug\net5.0\Commission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\obj\Debug\net5.0\Commission.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\obj\Debug\net5.0\Commission.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\obj\Debug\net5.0\Commission.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\obj\Debug\net5.0\Commission.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\obj\Debug\net5.0\ref\Commission.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\obj\Debug\net5.0\Commission.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\obj\Debug\net5.0\Commission.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Commission\obj\Debug\net5.0\Commission.csproj.AssemblyReference.cache
