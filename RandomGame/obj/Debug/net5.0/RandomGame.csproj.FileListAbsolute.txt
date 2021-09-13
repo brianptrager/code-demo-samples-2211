@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\bin\Debug\net5.0\RandomGame.exe
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\bin\Debug\net5.0\RandomGame.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\bin\Debug\net5.0\RandomGame.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\bin\Debug\net5.0\RandomGame.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\bin\Debug\net5.0\RandomGame.dll
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\bin\Debug\net5.0\ref\RandomGame.dll
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\bin\Debug\net5.0\RandomGame.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\RandomGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\RandomGame.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\RandomGame.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\RandomGame.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\RandomGame.dll
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\ref\RandomGame.dll
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\RandomGame.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\RandomGame.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\bin\Debug\net5.0\TryParse.exe
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\bin\Debug\net5.0\TryParse.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\bin\Debug\net5.0\TryParse.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\bin\Debug\net5.0\TryParse.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\bin\Debug\net5.0\TryParse.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\bin\Debug\net5.0\ref\TryParse.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\bin\Debug\net5.0\TryParse.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\TryParse.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\TryParse.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\TryParse.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\ref\TryParse.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\TryParse.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\TryParse.genruntimeconfig.cache
