@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\bin\Debug\net5.0\DecisionMania.exe
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\bin\Debug\net5.0\DecisionMania.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\bin\Debug\net5.0\DecisionMania.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\bin\Debug\net5.0\DecisionMania.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\bin\Debug\net5.0\DecisionMania.dll
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\bin\Debug\net5.0\ref\DecisionMania.dll
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\bin\Debug\net5.0\DecisionMania.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\obj\Debug\net5.0\DecisionMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\obj\Debug\net5.0\DecisionMania.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\obj\Debug\net5.0\DecisionMania.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\obj\Debug\net5.0\DecisionMania.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\obj\Debug\net5.0\DecisionMania.dll
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\obj\Debug\net5.0\ref\DecisionMania.dll
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\obj\Debug\net5.0\DecisionMania.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\obj\Debug\net5.0\DecisionMania.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\DecisionMania\obj\Debug\net5.0\DecisionMania.csproj.AssemblyReference.cache

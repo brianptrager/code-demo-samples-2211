@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\bin\Debug\net5.0\MenuOptions.exe
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\bin\Debug\net5.0\MenuOptions.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\bin\Debug\net5.0\MenuOptions.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\bin\Debug\net5.0\MenuOptions.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\bin\Debug\net5.0\MenuOptions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\bin\Debug\net5.0\ref\MenuOptions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\bin\Debug\net5.0\MenuOptions.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\obj\Debug\net5.0\MenuOptions.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\obj\Debug\net5.0\MenuOptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\obj\Debug\net5.0\MenuOptions.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\obj\Debug\net5.0\MenuOptions.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\obj\Debug\net5.0\MenuOptions.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\obj\Debug\net5.0\MenuOptions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\obj\Debug\net5.0\ref\MenuOptions.dll
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\obj\Debug\net5.0\MenuOptions.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\MenuOptions\obj\Debug\net5.0\MenuOptions.genruntimeconfig.cache
