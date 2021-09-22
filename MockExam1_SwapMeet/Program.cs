@@ -46,7 +46,10 @@ namespace MockExam1_SwapMeet
                             {
                                 if((purchaseCount >= MINIMUM_NUM) && (purchaseCount <= inventoryCount))
                                 {
-
+                                    inventoryCount -= purchaseCount;
+                                    //inventoryCount = inventoryCount - purchaseCount;
+                                    Console.WriteLine($"\nInventory Count: {inventoryCount}" +
+                                    $"\tValue: {COST_PER_DISK * inventoryCount:C}");
                                 }
                                 else
                                 {
@@ -58,6 +61,33 @@ namespace MockExam1_SwapMeet
                                 Console.WriteLine("Error: The value you entered is invalid...Exiting");
                                 Environment.Exit(0);
                             }
+                            break; //end case 2
+
+                        case 3:
+                            Console.WriteLine("How many disks would you like to sell?");
+                            if (int.TryParse(Console.ReadLine(), out int sellCount))
+                            {
+                                if ((sellCount >= MINIMUM_NUM))
+                                {
+                                    inventoryCount += sellCount;
+                                    //inventoryCount = inventoryCount - purchaseCount;
+                                    Console.WriteLine($"\nInventory Count: {inventoryCount}" +
+                                    $"\tValue: {COST_PER_DISK * inventoryCount:C}");
+                                }
+                                else
+                                {
+                                    Console.WriteLine($"Cannot sell for less than {MINIMUM_NUM}");
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("Error: The value you entered is invalid...Exiting");
+                                Environment.Exit(0);
+                            }
+                            break; //end case 3
+                        default:
+                            break;
+
                     }
                 }
                 else
@@ -71,6 +101,8 @@ namespace MockExam1_SwapMeet
                 Console.WriteLine("Error: The value you entered is invalid...Exiting");
                 Environment.Exit(0);
             }
+
+            Console.WriteLine("Program End ... exiting");
         }
     }
 }
