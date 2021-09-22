@@ -48,8 +48,8 @@ namespace MockExam1_SwapMeet
                                 {
                                     inventoryCount -= purchaseCount;
                                     //inventoryCount = inventoryCount - purchaseCount;
-                                    Console.WriteLine($"\nInventory Count: {inventoryCount}" +
-                                    $"\tValue: {COST_PER_DISK * inventoryCount:C}");
+                                    //Console.WriteLine($"\nInventory Count: {inventoryCount}" +
+                                    //$"\tValue: {COST_PER_DISK * inventoryCount:C}");
                                 }
                                 else
                                 {
@@ -71,8 +71,8 @@ namespace MockExam1_SwapMeet
                                 {
                                     inventoryCount += sellCount;
                                     //inventoryCount = inventoryCount - purchaseCount;
-                                    Console.WriteLine($"\nInventory Count: {inventoryCount}" +
-                                    $"\tValue: {COST_PER_DISK * inventoryCount:C}");
+                                    //Console.WriteLine($"\nInventory Count: {inventoryCount}" +
+                                    //$"\tValue: {COST_PER_DISK * inventoryCount:C}");
                                 }
                                 else
                                 {
@@ -102,6 +102,8 @@ namespace MockExam1_SwapMeet
                 Environment.Exit(0);
             }
 
+            Console.WriteLine($"\nInventory Count: {inventoryCount}" +
+                              $"\tValue: {COST_PER_DISK * inventoryCount:C}");
             Console.WriteLine("Program End ... exiting");
         }
     }
