@@ -33,14 +33,15 @@ namespace MockExam1_SwapMeet
                 if (int.TryParse(Console.ReadLine(), out int selection))
                 {
                     //if(selection == 1)
+                    //case presented for each option
                     switch(selection)
                     {
-                        case 1: 
+                        case 1: //Display inventory count
                             Console.WriteLine($"\nInventory Count: {inventoryCount}" +
                                 $"\tValue: {COST_PER_DISK * inventoryCount:C}");
                             break;
 
-                        case 2:
+                        case 2: //Subtracts from inventory count if valid
                             Console.WriteLine("How many disks would you like to purchase?");
                             if (int.TryParse(Console.ReadLine(), out int purchaseCount))
                             {
@@ -63,7 +64,7 @@ namespace MockExam1_SwapMeet
                             }
                             break; //end case 2
 
-                        case 3:
+                        case 3: //Adds to inventory count if valid
                             Console.WriteLine("How many disks would you like to sell?");
                             if (int.TryParse(Console.ReadLine(), out int sellCount))
                             {
