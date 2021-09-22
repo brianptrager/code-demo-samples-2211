@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\bin\Debug\net5.0\MockExam1_SwapMeet.exe
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\bin\Debug\net5.0\MockExam1_SwapMeet.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\bin\Debug\net5.0\MockExam1_SwapMeet.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\bin\Debug\net5.0\MockExam1_SwapMeet.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\bin\Debug\net5.0\MockExam1_SwapMeet.dll
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\bin\Debug\net5.0\ref\MockExam1_SwapMeet.dll
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\bin\Debug\net5.0\MockExam1_SwapMeet.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\obj\Debug\net5.0\MockExam1_SwapMeet.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\obj\Debug\net5.0\MockExam1_SwapMeet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\obj\Debug\net5.0\MockExam1_SwapMeet.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\obj\Debug\net5.0\MockExam1_SwapMeet.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\obj\Debug\net5.0\MockExam1_SwapMeet.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\obj\Debug\net5.0\MockExam1_SwapMeet.dll
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\obj\Debug\net5.0\ref\MockExam1_SwapMeet.dll
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\obj\Debug\net5.0\MockExam1_SwapMeet.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\MockExam1_SwapMeet\obj\Debug\net5.0\MockExam1_SwapMeet.genruntimeconfig.cache

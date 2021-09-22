@@ -15,6 +15,7 @@ namespace MockExam1_SwapMeet
         {
             Console.Title = "Disk4Cheap";
             const double COST_PER_DISK = 25.75;
+            const int MINIMUM_NUM = 1;
 
             Console.WriteLine("***Disk4Cheap***\n");
             Console.Write("How many disk drives are in the current inventory?: ");
@@ -23,7 +24,7 @@ namespace MockExam1_SwapMeet
             //if(int.TryParse(input, out int numInput))
             if(int.TryParse(Console.ReadLine(), out int inventoryCount))
             {
-                Console.Write("MENU\n\n\t1. Display current inventory value\n" +
+                Console.Write("\nMENU\n\n\t1. Display current inventory value\n" +
                     "\t2. Buy disks from Disk4Cheap\n\t3. Sell disks to Disk4Cheap\n" +
                     "\t4. Exit\n" +
                     "Enter your choice (1, 2, 3, or 4): ");
@@ -38,7 +39,25 @@ namespace MockExam1_SwapMeet
                             Console.WriteLine($"\nInventory Count: {inventoryCount}" +
                                 $"\tValue: {COST_PER_DISK * inventoryCount:C}");
                             break;
-                            
+
+                        case 2:
+                            Console.WriteLine("How many disks would you like to purchase?");
+                            if (int.TryParse(Console.ReadLine(), out int purchaseCount))
+                            {
+                                if((purchaseCount >= MINIMUM_NUM) && (purchaseCount <= inventoryCount))
+                                {
+
+                                }
+                                else
+                                {
+                                    Console.WriteLine($"Cannot purchase more than what is available in inventory: {inventoryCount}");
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("Error: The value you entered is invalid...Exiting");
+                                Environment.Exit(0);
+                            }
                     }
                 }
                 else
