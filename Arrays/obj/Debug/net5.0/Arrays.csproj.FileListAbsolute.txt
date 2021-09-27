@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

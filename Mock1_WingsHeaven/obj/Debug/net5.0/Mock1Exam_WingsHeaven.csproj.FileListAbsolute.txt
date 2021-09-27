@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\bin\Debug\net5.0\Mock1Exam_WingsHeaven.exe
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\bin\Debug\net5.0\Mock1Exam_WingsHeaven.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\bin\Debug\net5.0\Mock1Exam_WingsHeaven.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\bin\Debug\net5.0\Mock1Exam_WingsHeaven.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\bin\Debug\net5.0\Mock1Exam_WingsHeaven.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\bin\Debug\net5.0\ref\Mock1Exam_WingsHeaven.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\bin\Debug\net5.0\Mock1Exam_WingsHeaven.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\obj\Debug\net5.0\Mock1Exam_WingsHeaven.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\obj\Debug\net5.0\Mock1Exam_WingsHeaven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\obj\Debug\net5.0\Mock1Exam_WingsHeaven.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\obj\Debug\net5.0\Mock1Exam_WingsHeaven.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\obj\Debug\net5.0\Mock1Exam_WingsHeaven.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\obj\Debug\net5.0\Mock1Exam_WingsHeaven.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\obj\Debug\net5.0\ref\Mock1Exam_WingsHeaven.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\obj\Debug\net5.0\Mock1Exam_WingsHeaven.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\Mock1_WingsHeaven\obj\Debug\net5.0\Mock1Exam_WingsHeaven.genruntimeconfig.cache
