@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\bin\Debug\net5.0\L33tArrays.exe
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\bin\Debug\net5.0\L33tArrays.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\bin\Debug\net5.0\L33tArrays.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\bin\Debug\net5.0\L33tArrays.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\bin\Debug\net5.0\L33tArrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\bin\Debug\net5.0\ref\L33tArrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\bin\Debug\net5.0\L33tArrays.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\obj\Debug\net5.0\L33tArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\obj\Debug\net5.0\L33tArrays.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\obj\Debug\net5.0\L33tArrays.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\obj\Debug\net5.0\L33tArrays.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\obj\Debug\net5.0\L33tArrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\obj\Debug\net5.0\ref\L33tArrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\obj\Debug\net5.0\L33tArrays.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\obj\Debug\net5.0\L33tArrays.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\L33tArrays\obj\Debug\net5.0\L33tArrays.csproj.AssemblyReference.cache

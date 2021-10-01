@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\bin\Debug\net5.0\LoopsWithInput.exe
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\bin\Debug\net5.0\LoopsWithInput.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\bin\Debug\net5.0\LoopsWithInput.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\bin\Debug\net5.0\LoopsWithInput.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\bin\Debug\net5.0\LoopsWithInput.dll
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\bin\Debug\net5.0\ref\LoopsWithInput.dll
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\bin\Debug\net5.0\LoopsWithInput.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\obj\Debug\net5.0\LoopsWithInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\obj\Debug\net5.0\LoopsWithInput.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\obj\Debug\net5.0\LoopsWithInput.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\obj\Debug\net5.0\LoopsWithInput.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\obj\Debug\net5.0\LoopsWithInput.dll
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\obj\Debug\net5.0\ref\LoopsWithInput.dll
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\obj\Debug\net5.0\LoopsWithInput.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\LoopsWithInput\obj\Debug\net5.0\LoopsWithInput.genruntimeconfig.cache
