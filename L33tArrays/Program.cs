@@ -38,6 +38,7 @@ namespace L33tArrays
             Console.WriteLine(names[1]);
             #endregion
 
+            #region ParallelArrays
             string[] studentRoster = { "Dylan", "Ashley", "Flavio", "Sam", "Amir", "Irving" };
             int[] favoriteNumbers = { 4, 2, 27, 7, 5, 19 };
             Console.WriteLine("\nClass Roster:");
@@ -63,7 +64,9 @@ namespace L33tArrays
             {
                 Console.WriteLine("The arrays are not parallel.");
             }
+            #endregion
 
+            #region HighestNumber
             //Highest number in favoriteNumbers array
             int highestNumber = Int32.MinValue;
             for(int i = 0; i < favoriteNumbers.Length; i++)
@@ -73,6 +76,7 @@ namespace L33tArrays
             }
 
             Console.WriteLine($"Highest number: {highestNumber}");
+            #endregion
         }
     }
 }
