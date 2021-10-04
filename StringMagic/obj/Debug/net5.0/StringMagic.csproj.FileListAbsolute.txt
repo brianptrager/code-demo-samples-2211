@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\bin\Debug\net5.0\StringMagic.exe
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\bin\Debug\net5.0\StringMagic.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\bin\Debug\net5.0\StringMagic.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\bin\Debug\net5.0\StringMagic.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\bin\Debug\net5.0\StringMagic.dll
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\bin\Debug\net5.0\ref\StringMagic.dll
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\bin\Debug\net5.0\StringMagic.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\obj\Debug\net5.0\StringMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\obj\Debug\net5.0\StringMagic.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\obj\Debug\net5.0\StringMagic.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\obj\Debug\net5.0\StringMagic.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\obj\Debug\net5.0\StringMagic.dll
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\obj\Debug\net5.0\ref\StringMagic.dll
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\obj\Debug\net5.0\StringMagic.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\obj\Debug\net5.0\StringMagic.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\StringMagic\obj\Debug\net5.0\StringMagic.csproj.AssemblyReference.cache

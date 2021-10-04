@@ -9,7 +9,8 @@ namespace Loops
             int counter = 1;
             const int MAX = 10;
 
-            while(counter < MAX)
+            Console.WriteLine("\nWhile Loop");
+            while (counter < MAX)
             {
                 Console.WriteLine($"counter is less than 10: {counter}");
                 counter++;
@@ -20,12 +21,23 @@ namespace Loops
 
             int counterTwo;
 
+            Console.WriteLine("\nFor Loop");
             for (counterTwo = 1; counterTwo < MAX; counterTwo++)
             {
                 Console.WriteLine(counterTwo);
             }
 
             Console.WriteLine(counterTwo);
+
+            int counterThree = 0;
+
+            Console.WriteLine("\nDo Loop");
+            do
+            {
+                
+                Console.WriteLine(counterThree);
+                counterThree++;
+            } while (counterThree < 10);
         }
     }
 }
