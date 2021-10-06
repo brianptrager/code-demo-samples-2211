@@ -47,7 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L33tArrays", "L33tArrays\L3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysWithInput", "ArraysWithInput\ArraysWithInput.csproj", "{69D61831-9FA1-4F56-A07C-84DE3D9BE03C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMagic", "StringMagic\StringMagic.csproj", "{B904A68A-BAD7-4AF8-AEDD-7852DC7B98F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMagic", "StringMagic\StringMagic.csproj", "{B904A68A-BAD7-4AF8-AEDD-7852DC7B98F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethods", "SimpleMethods\SimpleMethods.csproj", "{52C31D47-A7A6-4B68-BE8F-A1983B0822E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethods2", "SimpleMethods2\SimpleMethods2.csproj", "{2044F9F1-C16C-4607-AF4F-84F5157330CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +151,14 @@ Global
 		{B904A68A-BAD7-4AF8-AEDD-7852DC7B98F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B904A68A-BAD7-4AF8-AEDD-7852DC7B98F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B904A68A-BAD7-4AF8-AEDD-7852DC7B98F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C31D47-A7A6-4B68-BE8F-A1983B0822E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C31D47-A7A6-4B68-BE8F-A1983B0822E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C31D47-A7A6-4B68-BE8F-A1983B0822E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C31D47-A7A6-4B68-BE8F-A1983B0822E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2044F9F1-C16C-4607-AF4F-84F5157330CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2044F9F1-C16C-4607-AF4F-84F5157330CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2044F9F1-C16C-4607-AF4F-84F5157330CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2044F9F1-C16C-4607-AF4F-84F5157330CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\bin\Debug\net5.0\SimpleMethods.exe
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\bin\Debug\net5.0\SimpleMethods.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\bin\Debug\net5.0\SimpleMethods.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\bin\Debug\net5.0\SimpleMethods.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\bin\Debug\net5.0\SimpleMethods.dll
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\bin\Debug\net5.0\ref\SimpleMethods.dll
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\bin\Debug\net5.0\SimpleMethods.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\obj\Debug\net5.0\SimpleMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\obj\Debug\net5.0\SimpleMethods.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\obj\Debug\net5.0\SimpleMethods.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\obj\Debug\net5.0\SimpleMethods.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\obj\Debug\net5.0\SimpleMethods.dll
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\obj\Debug\net5.0\ref\SimpleMethods.dll
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\obj\Debug\net5.0\SimpleMethods.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\SimpleMethods\obj\Debug\net5.0\SimpleMethods.genruntimeconfig.cache
