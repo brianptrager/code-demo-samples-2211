@@ -49,9 +49,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysWithInput", "ArraysWi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMagic", "StringMagic\StringMagic.csproj", "{B904A68A-BAD7-4AF8-AEDD-7852DC7B98F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethods", "SimpleMethods\SimpleMethods.csproj", "{52C31D47-A7A6-4B68-BE8F-A1983B0822E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMethods", "SimpleMethods\SimpleMethods.csproj", "{52C31D47-A7A6-4B68-BE8F-A1983B0822E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethods2", "SimpleMethods2\SimpleMethods2.csproj", "{2044F9F1-C16C-4607-AF4F-84F5157330CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMethods2", "SimpleMethods2\SimpleMethods2.csproj", "{2044F9F1-C16C-4607-AF4F-84F5157330CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheNameGame", "TheNameGame\TheNameGame.csproj", "{19A1B0DB-9BD7-46BC-A040-1E8AEF789251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelArrays", "ParallelArrays\ParallelArrays.csproj", "{7E4C63D7-FA11-4C65-BA66-17FDAB9FD889}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +163,14 @@ Global
 		{2044F9F1-C16C-4607-AF4F-84F5157330CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2044F9F1-C16C-4607-AF4F-84F5157330CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2044F9F1-C16C-4607-AF4F-84F5157330CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A1B0DB-9BD7-46BC-A040-1E8AEF789251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A1B0DB-9BD7-46BC-A040-1E8AEF789251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A1B0DB-9BD7-46BC-A040-1E8AEF789251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A1B0DB-9BD7-46BC-A040-1E8AEF789251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4C63D7-FA11-4C65-BA66-17FDAB9FD889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4C63D7-FA11-4C65-BA66-17FDAB9FD889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4C63D7-FA11-4C65-BA66-17FDAB9FD889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4C63D7-FA11-4C65-BA66-17FDAB9FD889}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

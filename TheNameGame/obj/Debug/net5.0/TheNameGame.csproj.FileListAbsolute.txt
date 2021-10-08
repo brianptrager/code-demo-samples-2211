@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\bin\Debug\net5.0\TheNameGame.exe
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\bin\Debug\net5.0\TheNameGame.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\bin\Debug\net5.0\TheNameGame.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\bin\Debug\net5.0\TheNameGame.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\bin\Debug\net5.0\TheNameGame.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\bin\Debug\net5.0\ref\TheNameGame.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\bin\Debug\net5.0\TheNameGame.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\obj\Debug\net5.0\TheNameGame.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\obj\Debug\net5.0\TheNameGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\obj\Debug\net5.0\TheNameGame.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\obj\Debug\net5.0\TheNameGame.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\obj\Debug\net5.0\TheNameGame.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\obj\Debug\net5.0\TheNameGame.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\obj\Debug\net5.0\ref\TheNameGame.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\obj\Debug\net5.0\TheNameGame.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\TheNameGame\obj\Debug\net5.0\TheNameGame.genruntimeconfig.cache

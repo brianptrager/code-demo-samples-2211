@@ -24,7 +24,7 @@ namespace SimpleMethods2
             //char[] firstNameArray = firstName.ToCharArray();
             //Array.Reverse(firstNameArray);
 
-            //for(int i = 0; i < firstNameArray.Length; i++)
+            //for(int i = 0; i <= firstNameArray.Length; i++)
             //{
             //    Console.Write(firstNameArray[i]);
             //}
@@ -36,13 +36,13 @@ namespace SimpleMethods2
             //char[] cityArray = city.ToCharArray();
             //Array.Reverse(cityArray);
 
-            //for (int i = 0; i < lastNameArray.Length; i++)
+            //for (int i = 0; i <= lastNameArray.Length; i++)
             //{
             //    Console.Write(lastNameArray[i]);
             //}
             //Console.Write(" ");
 
-            //for (int i = 0; i < cityArray.Length; i++)
+            //for (int i = 0; i <= cityArray.Length; i++)
             //{
             //    Console.Write(cityArray[i]);
             //}

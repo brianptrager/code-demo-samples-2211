@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\bin\Debug\net5.0\ParallelArrays.exe
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\bin\Debug\net5.0\ParallelArrays.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\bin\Debug\net5.0\ParallelArrays.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\bin\Debug\net5.0\ParallelArrays.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\bin\Debug\net5.0\ParallelArrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\bin\Debug\net5.0\ref\ParallelArrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\bin\Debug\net5.0\ParallelArrays.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\obj\Debug\net5.0\ParallelArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\obj\Debug\net5.0\ParallelArrays.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\obj\Debug\net5.0\ParallelArrays.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\obj\Debug\net5.0\ParallelArrays.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\obj\Debug\net5.0\ParallelArrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\obj\Debug\net5.0\ref\ParallelArrays.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\obj\Debug\net5.0\ParallelArrays.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\obj\Debug\net5.0\ParallelArrays.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\ParallelArrays\obj\Debug\net5.0\ParallelArrays.csproj.AssemblyReference.cache
