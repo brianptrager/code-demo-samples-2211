@@ -53,9 +53,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMethods", "SimpleMeth
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMethods2", "SimpleMethods2\SimpleMethods2.csproj", "{2044F9F1-C16C-4607-AF4F-84F5157330CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheNameGame", "TheNameGame\TheNameGame.csproj", "{19A1B0DB-9BD7-46BC-A040-1E8AEF789251}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheNameGame", "TheNameGame\TheNameGame.csproj", "{19A1B0DB-9BD7-46BC-A040-1E8AEF789251}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelArrays", "ParallelArrays\ParallelArrays.csproj", "{7E4C63D7-FA11-4C65-BA66-17FDAB9FD889}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelArrays", "ParallelArrays\ParallelArrays.csproj", "{7E4C63D7-FA11-4C65-BA66-17FDAB9FD889}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringAwesomeSauce", "StringAwesomeSauce\StringAwesomeSauce.csproj", "{F17D92B5-DC47-4A2D-8D44-413F5F98062A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToOOP", "IntroToOOP\IntroToOOP.csproj", "{6205F32B-60B5-4E73-9482-86E7BCBF0CB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +175,14 @@ Global
 		{7E4C63D7-FA11-4C65-BA66-17FDAB9FD889}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E4C63D7-FA11-4C65-BA66-17FDAB9FD889}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E4C63D7-FA11-4C65-BA66-17FDAB9FD889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17D92B5-DC47-4A2D-8D44-413F5F98062A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17D92B5-DC47-4A2D-8D44-413F5F98062A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17D92B5-DC47-4A2D-8D44-413F5F98062A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17D92B5-DC47-4A2D-8D44-413F5F98062A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6205F32B-60B5-4E73-9482-86E7BCBF0CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6205F32B-60B5-4E73-9482-86E7BCBF0CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6205F32B-60B5-4E73-9482-86E7BCBF0CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6205F32B-60B5-4E73-9482-86E7BCBF0CB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

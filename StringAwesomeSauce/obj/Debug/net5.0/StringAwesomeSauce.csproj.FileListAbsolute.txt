@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\bin\Debug\net5.0\StringAwesomeSauce.exe
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\bin\Debug\net5.0\StringAwesomeSauce.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\bin\Debug\net5.0\StringAwesomeSauce.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\bin\Debug\net5.0\StringAwesomeSauce.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\bin\Debug\net5.0\StringAwesomeSauce.dll
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\bin\Debug\net5.0\ref\StringAwesomeSauce.dll
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\bin\Debug\net5.0\StringAwesomeSauce.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\obj\Debug\net5.0\StringAwesomeSauce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\obj\Debug\net5.0\StringAwesomeSauce.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\obj\Debug\net5.0\StringAwesomeSauce.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\obj\Debug\net5.0\StringAwesomeSauce.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\obj\Debug\net5.0\StringAwesomeSauce.dll
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\obj\Debug\net5.0\ref\StringAwesomeSauce.dll
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\obj\Debug\net5.0\StringAwesomeSauce.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\StringAwesomeSauce\obj\Debug\net5.0\StringAwesomeSauce.genruntimeconfig.cache
