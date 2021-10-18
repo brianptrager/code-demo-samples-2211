@@ -30,12 +30,30 @@ namespace IntroToOOP
 
 
             //Object Initializer Syntax
-            cars[2] = new Car() { Year = 2012, Make = "Toyota", Model = "Camry", Color = "Silver", CarType = "Sedan" };
+            cars[2] = new Car() 
+            { 
+                Year = 2012, 
+                Make = "Toyota", 
+                Model = "Camry", 
+                Color = "Silver", 
+                CarType = "Sedan" 
+            };
 
+            cars[3] = new Car();
+
+            cars[4] = new Car(2020, "Honda", "Civic", "Gold", "Sedan");
+
+            int counter = 1;
             foreach(Car c in cars)
-            {
+            {     
                 if (c != null)
-                    Console.WriteLine(c.GetCarInformation());
+                {
+                    Console.WriteLine($"===========CAR #{counter}===============");
+                    //Console.WriteLine(c.GetCarInformation());
+                    Console.WriteLine(c);
+                }
+                Console.WriteLine();
+                counter++;
             }
 
             //Console.WriteLine(car.GetCarInformation(false));

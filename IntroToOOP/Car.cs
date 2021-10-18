@@ -49,7 +49,28 @@ namespace IntroToOOP
         //    return color;
         //}
 
-        public string GetCarInformation()
+        //Default constructor - a constructor with no parameter
+        public Car()
+        {
+            Year = 0;
+            Make = "No Information";
+            Model = "No Information";
+            Color = "black";
+            CarType = "No Information";
+        }
+
+        //Parameterized constructor - a constructor with one or more parameters
+        //This can be considered an overloaded constructor if a default constructor has been defined
+        public Car(int year, string make, string model, string color, string carType)
+        {
+            Year = year;
+            Make = make;
+            Model = model;
+            Color = color;
+            CarType = carType;
+        }
+
+        public override string ToString()
         {
             return String.Format($"Year: {year}\n" +
                 $"Make: {Make}\nModel: {Model}\n" +
