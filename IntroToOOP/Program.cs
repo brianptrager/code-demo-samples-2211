@@ -12,7 +12,7 @@ namespace IntroToOOP
 
             //First car object EVER!!!
             Car car = new Car();
-            car.Year = "2020";
+            car.Year = 1950;
             car.Make = "Ford";
             car.Model = "Mustang GT500";
             car.Color = "Black";
@@ -21,7 +21,7 @@ namespace IntroToOOP
 
             //Second car object
             Car car2 = new Car();
-            car2.Year = "2017";
+            car2.Year = 1865;
             car2.Make = "Jeep";
             car2.Model = "Wrangler Rubicon";
             car2.Color = "White";
@@ -30,7 +30,7 @@ namespace IntroToOOP
 
 
             //Object Initializer Syntax
-            cars[2] = new Car() { Year = "2012", Make = "Toyota", Model = "Camry", Color = "Silver", CarType = "Sedan" };
+            cars[2] = new Car() { Year = 2012, Make = "Toyota", Model = "Camry", Color = "Silver", CarType = "Sedan" };
 
             foreach(Car c in cars)
             {

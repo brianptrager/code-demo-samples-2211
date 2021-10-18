@@ -13,3 +13,4 @@ C:\Users\bptnbs\source\repos\CoolDemos\IntroToOOP\obj\Debug\net5.0\IntroToOOP.dl
 C:\Users\bptnbs\source\repos\CoolDemos\IntroToOOP\obj\Debug\net5.0\ref\IntroToOOP.dll
 C:\Users\bptnbs\source\repos\CoolDemos\IntroToOOP\obj\Debug\net5.0\IntroToOOP.pdb
 C:\Users\bptnbs\source\repos\CoolDemos\IntroToOOP\obj\Debug\net5.0\IntroToOOP.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\IntroToOOP\obj\Debug\net5.0\IntroToOOP.csproj.AssemblyReference.cache
