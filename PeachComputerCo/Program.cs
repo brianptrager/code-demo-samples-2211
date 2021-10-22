@@ -41,7 +41,7 @@ namespace PeachComputerCo
             //        Console.WriteLine(c);
             //}
 
-            Math.Max(5, 50);
+            //Math.Max(5, 50);
         }
     }
 }
