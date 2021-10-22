@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\bin\Debug\net5.0\PeachComputerCo.exe
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\bin\Debug\net5.0\PeachComputerCo.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\bin\Debug\net5.0\PeachComputerCo.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\bin\Debug\net5.0\PeachComputerCo.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\bin\Debug\net5.0\PeachComputerCo.dll
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\bin\Debug\net5.0\ref\PeachComputerCo.dll
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\bin\Debug\net5.0\PeachComputerCo.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\obj\Debug\net5.0\PeachComputerCo.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\obj\Debug\net5.0\PeachComputerCo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\obj\Debug\net5.0\PeachComputerCo.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\obj\Debug\net5.0\PeachComputerCo.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\obj\Debug\net5.0\PeachComputerCo.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\obj\Debug\net5.0\PeachComputerCo.dll
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\obj\Debug\net5.0\ref\PeachComputerCo.dll
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\obj\Debug\net5.0\PeachComputerCo.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCo\obj\Debug\net5.0\PeachComputerCo.genruntimeconfig.cache

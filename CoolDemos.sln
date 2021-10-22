@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelArrays", "ParallelA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringAwesomeSauce", "StringAwesomeSauce\StringAwesomeSauce.csproj", "{F17D92B5-DC47-4A2D-8D44-413F5F98062A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToOOP", "IntroToOOP\IntroToOOP.csproj", "{6205F32B-60B5-4E73-9482-86E7BCBF0CB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroToOOP", "IntroToOOP\IntroToOOP.csproj", "{6205F32B-60B5-4E73-9482-86E7BCBF0CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeachComputerCo", "PeachComputerCo\PeachComputerCo.csproj", "{17563AD3-D5E6-4F85-8EF9-A506BEB6680C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{6205F32B-60B5-4E73-9482-86E7BCBF0CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6205F32B-60B5-4E73-9482-86E7BCBF0CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6205F32B-60B5-4E73-9482-86E7BCBF0CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17563AD3-D5E6-4F85-8EF9-A506BEB6680C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17563AD3-D5E6-4F85-8EF9-A506BEB6680C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17563AD3-D5E6-4F85-8EF9-A506BEB6680C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17563AD3-D5E6-4F85-8EF9-A506BEB6680C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -50,20 +50,22 @@ namespace IntroToOOP
         //}
 
         //Default constructor - a constructor with no parameter
-        public Car()
-        {
-            Year = 0;
-            Make = "No Information";
-            Model = "No Information";
-            Color = "black";
-            CarType = "No Information";
-        }
+        public Car() : this(0, "N/A", "N/A", "black", "N/A") { }
 
         //Parameterized constructor - a constructor with one or more parameters
         //This can be considered an overloaded constructor if a default constructor has been defined
         public Car(int year, string make, string model, string color, string carType)
         {
             Year = year;
+            Make = make;
+            Model = model;
+            Color = color;
+            CarType = carType;
+        }
+
+        public Car(string make, string model, string color, string carType)
+        {
+            Year = DateTime.Now.Year;
             Make = make;
             Model = model;
             Color = color;

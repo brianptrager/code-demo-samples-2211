@@ -43,6 +43,8 @@ namespace IntroToOOP
 
             cars[4] = new Car(2020, "Honda", "Civic", "Gold", "Sedan");
 
+            cars[5] = new Car("Chevrolet", "Avalanche", "blue", "truck");
+
             int counter = 1;
             foreach(Car c in cars)
             {     
