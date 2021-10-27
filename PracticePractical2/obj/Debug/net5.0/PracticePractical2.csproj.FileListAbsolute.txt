@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\bin\Debug\net5.0\PracticePractical2.exe
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\bin\Debug\net5.0\PracticePractical2.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\bin\Debug\net5.0\PracticePractical2.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\bin\Debug\net5.0\PracticePractical2.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\bin\Debug\net5.0\PracticePractical2.dll
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\bin\Debug\net5.0\ref\PracticePractical2.dll
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\bin\Debug\net5.0\PracticePractical2.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\obj\Debug\net5.0\PracticePractical2.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\obj\Debug\net5.0\PracticePractical2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\obj\Debug\net5.0\PracticePractical2.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\obj\Debug\net5.0\PracticePractical2.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\obj\Debug\net5.0\PracticePractical2.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\obj\Debug\net5.0\PracticePractical2.dll
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\obj\Debug\net5.0\ref\PracticePractical2.dll
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\obj\Debug\net5.0\PracticePractical2.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\PracticePractical2\obj\Debug\net5.0\PracticePractical2.genruntimeconfig.cache

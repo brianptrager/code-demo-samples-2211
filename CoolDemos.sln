@@ -61,7 +61,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringAwesomeSauce", "Strin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroToOOP", "IntroToOOP\IntroToOOP.csproj", "{6205F32B-60B5-4E73-9482-86E7BCBF0CB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeachComputerCo", "PeachComputerCo\PeachComputerCo.csproj", "{17563AD3-D5E6-4F85-8EF9-A506BEB6680C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeachComputerCo", "PeachComputerCo\PeachComputerCo.csproj", "{17563AD3-D5E6-4F85-8EF9-A506BEB6680C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticePractical2", "PracticePractical2\PracticePractical2.csproj", "{BB775719-7B7D-4D51-B876-C48D08AC6BEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{17563AD3-D5E6-4F85-8EF9-A506BEB6680C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17563AD3-D5E6-4F85-8EF9-A506BEB6680C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17563AD3-D5E6-4F85-8EF9-A506BEB6680C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB775719-7B7D-4D51-B876-C48D08AC6BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB775719-7B7D-4D51-B876-C48D08AC6BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB775719-7B7D-4D51-B876-C48D08AC6BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB775719-7B7D-4D51-B876-C48D08AC6BEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
