@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\bin\Debug\net5.0\DateTimeTravel.exe
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\bin\Debug\net5.0\DateTimeTravel.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\bin\Debug\net5.0\DateTimeTravel.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\bin\Debug\net5.0\DateTimeTravel.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\bin\Debug\net5.0\DateTimeTravel.dll
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\bin\Debug\net5.0\ref\DateTimeTravel.dll
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\bin\Debug\net5.0\DateTimeTravel.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\obj\Debug\net5.0\DateTimeTravel.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\obj\Debug\net5.0\DateTimeTravel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\obj\Debug\net5.0\DateTimeTravel.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\obj\Debug\net5.0\DateTimeTravel.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\obj\Debug\net5.0\DateTimeTravel.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\obj\Debug\net5.0\DateTimeTravel.dll
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\obj\Debug\net5.0\ref\DateTimeTravel.dll
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\obj\Debug\net5.0\DateTimeTravel.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\DateTimeTravel\obj\Debug\net5.0\DateTimeTravel.genruntimeconfig.cache

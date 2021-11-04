@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\bin\Debug\net5.0\TrimmingStrings.exe
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\bin\Debug\net5.0\TrimmingStrings.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\bin\Debug\net5.0\TrimmingStrings.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\bin\Debug\net5.0\TrimmingStrings.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\bin\Debug\net5.0\TrimmingStrings.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\bin\Debug\net5.0\ref\TrimmingStrings.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\bin\Debug\net5.0\TrimmingStrings.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\TrimmingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\TrimmingStrings.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\TrimmingStrings.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\TrimmingStrings.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\TrimmingStrings.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\ref\TrimmingStrings.dll
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\TrimmingStrings.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\TrimmingStrings.genruntimeconfig.cache

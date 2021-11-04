@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\bin\Debug\net5.0\Enumerations.exe
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\bin\Debug\net5.0\Enumerations.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\bin\Debug\net5.0\Enumerations.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\bin\Debug\net5.0\Enumerations.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\bin\Debug\net5.0\Enumerations.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\bin\Debug\net5.0\ref\Enumerations.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\bin\Debug\net5.0\Enumerations.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\obj\Debug\net5.0\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\obj\Debug\net5.0\Enumerations.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\obj\Debug\net5.0\Enumerations.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\obj\Debug\net5.0\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\obj\Debug\net5.0\Enumerations.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\obj\Debug\net5.0\ref\Enumerations.dll
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\obj\Debug\net5.0\Enumerations.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\Enumerations\obj\Debug\net5.0\Enumerations.genruntimeconfig.cache

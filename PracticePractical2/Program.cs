@@ -8,7 +8,6 @@ namespace PracticePractical2
         static void Main(string[] args)
         {
             DisplayHeading();
-
             //int option = GetMainMenuChoice();
 
             //switch(option)
@@ -33,6 +32,10 @@ namespace PracticePractical2
                         break;
 
                     case 5:
+                        CreateDefaultAlien();
+                        break;
+
+                    case 6:
                         ExitProgram();
                         break;
                 }
@@ -54,7 +57,7 @@ namespace PracticePractical2
         public static int GetMainMenuChoice()
         {
             string[] menuOptions = {"Enter a sighting", "Display all sightings",
-            "Display sightings filtered by species", "Display Record Count", "Exit"};
+            "Display sightings filtered by species", "Display Record Count", "Create a sighting for the lazy ones", "Exit"};
 
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Main Menu");
@@ -68,7 +71,7 @@ namespace PracticePractical2
             while (true)
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.Write("Enter your selection (1-5): ");
+                Console.Write($"Enter your selection (1-{menuOptions.Length}): ");
 
                 Console.ResetColor();
 
@@ -242,6 +245,19 @@ namespace PracticePractical2
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("Thank you for using the MAD4UFOS recording system.  Goodbye!");
                 Environment.Exit(0);
+            }
+        }
+
+        public static void CreateDefaultAlien()
+        {
+            for(int i = 0; i < aliens.Length; i++)
+            {
+                if(aliens[i] == null)
+                {
+                    aliens[i] = new Alien();
+                    Console.WriteLine("Default alien created successfully.");
+                    return;
+                }
             }
         }
     }

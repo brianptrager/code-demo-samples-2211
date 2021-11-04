@@ -8,7 +8,20 @@ namespace PracticePractical2
 {
     class Alien
     {
-        public string Name { get; set; }
+        private string name;
+        public string Name { 
+            get
+            {
+                return name;
+            }
+            set 
+            {
+                if (value.Trim() == "")
+                    name = "N/A";
+                else
+                    name = value;
+            }
+        }
         public string DateTime { get; set; }
         public string Location { get; set; }
 
