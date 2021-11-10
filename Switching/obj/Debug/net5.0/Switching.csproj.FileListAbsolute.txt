@@ -13,3 +13,4 @@ C:\Users\bptnbs\source\repos\CoolDemos\Switching\obj\Debug\net5.0\Switching.dll
 C:\Users\bptnbs\source\repos\CoolDemos\Switching\obj\Debug\net5.0\ref\Switching.dll
 C:\Users\bptnbs\source\repos\CoolDemos\Switching\obj\Debug\net5.0\Switching.pdb
 C:\Users\bptnbs\source\repos\CoolDemos\Switching\obj\Debug\net5.0\Switching.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\Switching\obj\Debug\net5.0\Switching.csproj.AssemblyReference.cache

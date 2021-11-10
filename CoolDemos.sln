@@ -67,11 +67,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticePractical2", "Pract
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrimmingStrings", "TrimmingStrings\TrimmingStrings.csproj", "{1F987CE4-58EA-45E5-9776-44208C617345}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeTravel", "DateTimeTravel\DateTimeTravel.csproj", "{B14341FD-841F-479D-A105-0835D6F81B02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeTravel", "DateTimeTravel\DateTimeTravel.csproj", "{B14341FD-841F-479D-A105-0835D6F81B02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations", "Enumerations\Enumerations.csproj", "{531747B1-1DFB-4E59-B13F-D89F4CAED8AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumerations", "Enumerations\Enumerations.csproj", "{531747B1-1DFB-4E59-B13F-D89F4CAED8AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeachComputerCoList", "PeachComputerCoList\PeachComputerCoList.csproj", "{01045B34-06C2-4B79-998E-BB8B8CD9BB81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeachComputerCoList", "PeachComputerCoList\PeachComputerCoList.csproj", "{01045B34-06C2-4B79-998E-BB8B8CD9BB81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarFactory", "CarFactory\CarFactory.csproj", "{5194EA09-AEC3-4D55-A653-DCB5715A8F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingToFiles", "WritingToFiles\WritingToFiles.csproj", "{9E6C4800-DB43-4622-8A29-6ACB5C3FD484}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +223,14 @@ Global
 		{01045B34-06C2-4B79-998E-BB8B8CD9BB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01045B34-06C2-4B79-998E-BB8B8CD9BB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01045B34-06C2-4B79-998E-BB8B8CD9BB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5194EA09-AEC3-4D55-A653-DCB5715A8F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5194EA09-AEC3-4D55-A653-DCB5715A8F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5194EA09-AEC3-4D55-A653-DCB5715A8F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5194EA09-AEC3-4D55-A653-DCB5715A8F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E6C4800-DB43-4622-8A29-6ACB5C3FD484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6C4800-DB43-4622-8A29-6ACB5C3FD484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6C4800-DB43-4622-8A29-6ACB5C3FD484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6C4800-DB43-4622-8A29-6ACB5C3FD484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

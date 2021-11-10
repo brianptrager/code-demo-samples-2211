@@ -13,3 +13,4 @@ C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ProgramExit.
 C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ref\ProgramExit.dll
 C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ProgramExit.pdb
 C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ProgramExit.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\ProgramExit\obj\Debug\net5.0\ProgramExit.csproj.AssemblyReference.cache

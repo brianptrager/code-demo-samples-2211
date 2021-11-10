@@ -15,27 +15,38 @@ namespace PeachComputerCoList
             computers.Add(new Computer("Kali", "SSD", "Desktop", "Dell"));
             computers.Add(new Computer("Kali", "SSD", "Desktop", "Gateway", 16));
 
-            computers.Insert(2, new Computer("Windows", "SSD", "Laptop", "Microsoft"));
-
-            Console.WriteLine($"There are {computers.Count} computers in the list");
-
-            for(int i = 0; i < computers.Count; i++)
-            {
-                Console.WriteLine($"Computer #{(i + 1)}");
-                Console.WriteLine(computers[i]);
-            }
-
-            computers.RemoveAt(1);
-
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine($"There are {computers.Count} computers in the list");
-
+            Console.ForegroundColor = ConsoleColor.Cyan;
             for (int i = 0; i < computers.Count; i++)
             {
                 Console.WriteLine($"Computer #{(i + 1)}");
                 Console.WriteLine(computers[i]);
             }
 
+            Console.WriteLine($"There are {computers.Count} computers in the list");
+
+            //Insert a new computer in element (index) 2
+            //The computer object that is already in index 2 will be bumped to the next element
+            computers.Insert(2, new Computer("Windows", "SSD", "Laptop", "Microsoft"));
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            for (int i = 0; i < computers.Count; i++)
+            {
+                Console.WriteLine($"Computer #{(i + 1)}");
+                Console.WriteLine(computers[i]);
+            }
+            Console.WriteLine($"There are {computers.Count} computers in the list");
+
+            //This removes a computer object that is in index #1 (second element in the List)
+            computers.RemoveAt(1);
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            
+            for (int i = 0; i < computers.Count; i++)
+            {
+                Console.WriteLine($"Computer #{(i + 1)}");
+                Console.WriteLine(computers[i]);
+            }
+            Console.WriteLine($"There are {computers.Count} computers in the list");
             //foreach(Computer c in computers)
             //{
             //    Console.WriteLine(c);

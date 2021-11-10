@@ -13,3 +13,4 @@ C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\RandomGame.dl
 C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\ref\RandomGame.dll
 C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\RandomGame.pdb
 C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\RandomGame.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\RandomGame\obj\Debug\net5.0\RandomGame.csproj.AssemblyReference.cache

@@ -13,3 +13,4 @@ C:\Users\bptnbs\source\repos\CoolDemos\CoolMath\obj\Debug\net5.0\CoolMath.dll
 C:\Users\bptnbs\source\repos\CoolDemos\CoolMath\obj\Debug\net5.0\ref\CoolMath.dll
 C:\Users\bptnbs\source\repos\CoolDemos\CoolMath\obj\Debug\net5.0\CoolMath.pdb
 C:\Users\bptnbs\source\repos\CoolDemos\CoolMath\obj\Debug\net5.0\CoolMath.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\CoolMath\obj\Debug\net5.0\CoolMath.csproj.AssemblyReference.cache

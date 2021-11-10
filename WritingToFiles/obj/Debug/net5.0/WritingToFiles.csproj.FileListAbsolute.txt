@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\bin\Debug\net5.0\WritingToFiles.exe
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\bin\Debug\net5.0\WritingToFiles.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\bin\Debug\net5.0\WritingToFiles.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\bin\Debug\net5.0\WritingToFiles.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\bin\Debug\net5.0\WritingToFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\bin\Debug\net5.0\ref\WritingToFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\bin\Debug\net5.0\WritingToFiles.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\obj\Debug\net5.0\WritingToFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\obj\Debug\net5.0\WritingToFiles.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\obj\Debug\net5.0\WritingToFiles.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\obj\Debug\net5.0\WritingToFiles.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\obj\Debug\net5.0\WritingToFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\obj\Debug\net5.0\ref\WritingToFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\obj\Debug\net5.0\WritingToFiles.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\obj\Debug\net5.0\WritingToFiles.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\WritingToFiles\obj\Debug\net5.0\WritingToFiles.csproj.AssemblyReference.cache

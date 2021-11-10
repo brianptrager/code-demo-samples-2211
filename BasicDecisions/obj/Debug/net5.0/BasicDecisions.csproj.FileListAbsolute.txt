@@ -13,3 +13,4 @@ C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\BasicDeci
 C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\ref\BasicDecisions.dll
 C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\BasicDecisions.pdb
 C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\BasicDecisions.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\BasicDecisions\obj\Debug\net5.0\BasicDecisions.csproj.AssemblyReference.cache

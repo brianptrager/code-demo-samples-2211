@@ -13,3 +13,4 @@ C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCoList\obj\Debug\net5.0\Peac
 C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCoList\obj\Debug\net5.0\ref\PeachComputerCoList.dll
 C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCoList\obj\Debug\net5.0\PeachComputerCoList.pdb
 C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCoList\obj\Debug\net5.0\PeachComputerCoList.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\PeachComputerCoList\obj\Debug\net5.0\PeachComputerCoList.csproj.AssemblyReference.cache

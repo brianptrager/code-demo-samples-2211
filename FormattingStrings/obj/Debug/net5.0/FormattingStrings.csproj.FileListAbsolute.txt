@@ -13,3 +13,4 @@ C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\Format
 C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\ref\FormattingStrings.dll
 C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\FormattingStrings.pdb
 C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\FormattingStrings.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\FormattingStrings\obj\Debug\net5.0\FormattingStrings.csproj.AssemblyReference.cache

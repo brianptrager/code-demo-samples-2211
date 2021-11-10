@@ -13,3 +13,4 @@ C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\TryParse.dll
 C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\ref\TryParse.dll
 C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\TryParse.pdb
 C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\TryParse.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\TryParse\obj\Debug\net5.0\TryParse.csproj.AssemblyReference.cache

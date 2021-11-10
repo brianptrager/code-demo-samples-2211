@@ -13,3 +13,4 @@ C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\Trimming
 C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\ref\TrimmingStrings.dll
 C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\TrimmingStrings.pdb
 C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\TrimmingStrings.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\TrimmingStrings\obj\Debug\net5.0\TrimmingStrings.csproj.AssemblyReference.cache
