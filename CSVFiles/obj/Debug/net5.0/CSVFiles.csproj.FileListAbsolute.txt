@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\bin\Debug\net5.0\CSVFiles.exe
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\bin\Debug\net5.0\CSVFiles.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\bin\Debug\net5.0\CSVFiles.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\bin\Debug\net5.0\CSVFiles.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\bin\Debug\net5.0\CSVFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\bin\Debug\net5.0\ref\CSVFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\bin\Debug\net5.0\CSVFiles.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\obj\Debug\net5.0\CSVFiles.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\obj\Debug\net5.0\CSVFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\obj\Debug\net5.0\CSVFiles.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\obj\Debug\net5.0\CSVFiles.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\obj\Debug\net5.0\CSVFiles.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\obj\Debug\net5.0\CSVFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\obj\Debug\net5.0\ref\CSVFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\obj\Debug\net5.0\CSVFiles.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\CSVFiles\obj\Debug\net5.0\CSVFiles.genruntimeconfig.cache

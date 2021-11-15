@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.exe
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\bin\Debug\net5.0\ref\ReadingFromFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\obj\Debug\net5.0\ref\ReadingFromFiles.dll
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\CoolDemos\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.csproj.AssemblyReference.cache
