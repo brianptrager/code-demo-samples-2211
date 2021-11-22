@@ -37,7 +37,9 @@ namespace JSONTime
 
     class Student
     {
+        [JsonProperty ("First Name")]
         public string FirstName { get; set; }
+        [JsonProperty("Last Name")]
         public string LastName { get; set; }
         public string Program { get; set; }
         public string Hometown { get; set; }

@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\bin\Debug\net5.0\SportsManagementSystem.exe
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\bin\Debug\net5.0\SportsManagementSystem.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\bin\Debug\net5.0\SportsManagementSystem.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\bin\Debug\net5.0\SportsManagementSystem.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\bin\Debug\net5.0\SportsManagementSystem.dll
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\bin\Debug\net5.0\ref\SportsManagementSystem.dll
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\bin\Debug\net5.0\SportsManagementSystem.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\obj\Debug\net5.0\SportsManagementSystem.csproj.AssemblyReference.cache
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\obj\Debug\net5.0\SportsManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\obj\Debug\net5.0\SportsManagementSystem.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\obj\Debug\net5.0\SportsManagementSystem.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\obj\Debug\net5.0\SportsManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\obj\Debug\net5.0\SportsManagementSystem.dll
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\obj\Debug\net5.0\ref\SportsManagementSystem.dll
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\obj\Debug\net5.0\SportsManagementSystem.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\SportsManagementSystem\obj\Debug\net5.0\SportsManagementSystem.genruntimeconfig.cache
