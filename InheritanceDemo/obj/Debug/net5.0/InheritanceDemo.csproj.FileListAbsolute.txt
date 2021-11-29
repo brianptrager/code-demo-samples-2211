@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.exe
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.deps.json
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.json
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.dll
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\bin\Debug\net5.0\ref\InheritanceDemo.dll
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.dll
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\obj\Debug\net5.0\ref\InheritanceDemo.dll
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.pdb
+C:\Users\bptnbs\source\repos\CoolDemos\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.genruntimeconfig.cache
