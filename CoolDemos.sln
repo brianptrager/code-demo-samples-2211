@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_Exam_TurnerCarSales",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_Final_RustyBuckets", "Practice_Final_RustyBuckets\Practice_Final_RustyBuckets.csproj", "{F5CDCA3B-7A39-4EF4-9788-345437A4BC86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_Final_EmployeeSchedule", "Practice_Final_EmployeeSchedule\Practice_Final_EmployeeSchedule.csproj", "{5AC4CDEF-50FF-43BC-AB48-BFFBFBB9402A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{F5CDCA3B-7A39-4EF4-9788-345437A4BC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5CDCA3B-7A39-4EF4-9788-345437A4BC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5CDCA3B-7A39-4EF4-9788-345437A4BC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC4CDEF-50FF-43BC-AB48-BFFBFBB9402A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC4CDEF-50FF-43BC-AB48-BFFBFBB9402A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC4CDEF-50FF-43BC-AB48-BFFBFBB9402A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC4CDEF-50FF-43BC-AB48-BFFBFBB9402A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

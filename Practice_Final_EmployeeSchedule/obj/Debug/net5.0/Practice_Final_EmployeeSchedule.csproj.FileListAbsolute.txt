@@ -1,0 +1,16 @@
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\bin\Debug\net5.0\Practice_Final_EmployeeSchedule.exe
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\bin\Debug\net5.0\Practice_Final_EmployeeSchedule.deps.json
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\bin\Debug\net5.0\Practice_Final_EmployeeSchedule.runtimeconfig.json
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\bin\Debug\net5.0\Practice_Final_EmployeeSchedule.runtimeconfig.dev.json
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\bin\Debug\net5.0\Practice_Final_EmployeeSchedule.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\bin\Debug\net5.0\ref\Practice_Final_EmployeeSchedule.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\bin\Debug\net5.0\Practice_Final_EmployeeSchedule.pdb
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\obj\Debug\net5.0\Practice_Final_EmployeeSchedule.csproj.AssemblyReference.cache
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\obj\Debug\net5.0\Practice_Final_EmployeeSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\obj\Debug\net5.0\Practice_Final_EmployeeSchedule.AssemblyInfoInputs.cache
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\obj\Debug\net5.0\Practice_Final_EmployeeSchedule.AssemblyInfo.cs
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\obj\Debug\net5.0\Practice_Final_EmployeeSchedule.csproj.CoreCompileInputs.cache
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\obj\Debug\net5.0\Practice_Final_EmployeeSchedule.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\obj\Debug\net5.0\ref\Practice_Final_EmployeeSchedule.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\obj\Debug\net5.0\Practice_Final_EmployeeSchedule.pdb
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_EmployeeSchedule\obj\Debug\net5.0\Practice_Final_EmployeeSchedule.genruntimeconfig.cache
