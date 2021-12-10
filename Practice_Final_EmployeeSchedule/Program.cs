@@ -8,6 +8,8 @@ namespace Practice_Final_EmployeeSchedule
 {
     class Program
     {
+        static string[] employees = new string[1000];
+        static string[] dateTimes = new string[1000];
         static void Main(string[] args)
         {
             Console.WriteLine("***Rusty Buckets Work Roster***\n");
@@ -17,8 +19,7 @@ namespace Practice_Final_EmployeeSchedule
             "List all worker data", "List all employees working on a specific date",
             "List all dates worked for a specific employee", "Exit"};
             //Parallel arrays
-            string[] employees = new string[1000];
-            string[] dateTimes = new string[1000];
+            
 
             #region Read Data From File
             if (File.Exists(fileName))
@@ -49,106 +50,23 @@ namespace Practice_Final_EmployeeSchedule
                 switch (selection)
                 {
                     case "1": //Enter employee work data
-                        Console.Write("Enter the Employee's first name: ");
-                        string empName = Console.ReadLine();
-                        Console.Write("Enter the date s/he worked (mm/dd/yyyy): ");
-                        if (DateTime.TryParse(Console.ReadLine(), out DateTime date))
-                        {
-                            for (int i = 0; i < employees.Length; i++)
-                            {
-                                if (employees[i] == null)
-                                {
-                                    employees[i] = empName;
-                                    dateTimes[i] = date.ToShortDateString();
-                                    break;
-                                }
-                            }
-                        }
-                        else
-                        {
-                            Console.WriteLine("***Error: Invalid Data");
-                            goto Menu;
-                        }
+                        AddEmployeeData();
                         break;
 
                     case "2": //List all worker data
-                        Console.WriteLine("All Employee Work Dates");
-                        Console.WriteLine($"{"Date",-12}{"Name",-12}");
-                        Console.WriteLine($"{"----",-12}{"----",-12}");
-                        int workerCounter = 0;
-                        for (int i = 0; i < employees.Length; i++)
-                        {
-                            if (employees[i] != null && employees[i] != "")
-                            {
-                                Console.WriteLine($"{dateTimes[i],-12}{employees[i],-12}");
-                                workerCounter++;
-                            }
-                        }
-                        Console.WriteLine($"{workerCounter} employees listed\n");
+                        ListEmployeeData();
                         break;
 
                     case "3": //List employees by date
-                        Console.Write("Enter the date for reporting (mm/dd/yyyy): ");
-                        if (DateTime.TryParse(Console.ReadLine(), out DateTime dt))
-                        {
-                            Console.WriteLine($"All Employee Working on {dt.ToShortDateString()}");
-                            Console.WriteLine($"{"Date",-12}{"Name",-12}");
-                            Console.WriteLine($"{"----",-12}{"----",-12}");
-                            int counter = 0;
-                            for (int i = 0; i < employees.Length; i++)
-                            {
-                                if (dateTimes[i] == dt.ToShortDateString())
-                                {
-                                    Console.WriteLine($"{dateTimes[i],-12}{employees[i],-12}");
-                                    counter++;
-                                }
-                            }
-                            Console.WriteLine($"{counter} employees listed\n");
-                        }
-                        else
-                        {
-                            Console.WriteLine("***Error: Invalid Date");
-                            goto Menu;
-                        }
+                        ListEmployeesByDate();
                         break;
 
                     case "4": //List all dates for a specific employee
-                        Console.Write("Enter employee name to report: ");
-                        string employeeSearch = Console.ReadLine();
-
-                        Console.WriteLine($"\nAll Work Dates for {employeeSearch}");
-                        Console.WriteLine($"{"Date",-12}{"Name",-12}");
-                        Console.WriteLine($"{"----",-12}{"----",-12}");
-                        int empCounter = 0;
-                        for (int i = 0; i < employees.Length; i++)
-                        {
-                            if (employees[i] == employeeSearch)
-                            {
-                                Console.WriteLine($"{dateTimes[i],-12}{employees[i],-12}");
-                                empCounter++;
-                            }
-                        }
-                        Console.WriteLine($"{empCounter} dates listed\n");
+                        ListDatesByEmployee();
                         break;
 
                     case "5":
-                        string employeeData = null;
-                        string dateTimeData = null;
-
-                        for (int i = 0; i < employees.Length; i++)
-                        {
-                            employeeData += employees[i] + ",";
-                            dateTimeData += dateTimes[i] + ",";
-                        }
-                        Console.Write("Saving data...");
-                        using (StreamWriter writer = new StreamWriter(fileName, false))
-                        {
-                            writer.WriteLine(employeeData);
-                            writer.WriteLine(dateTimeData);
-                        }
-                        Console.WriteLine("done");
-                        Console.WriteLine("\nExiting program...");
-                        Environment.Exit(0);
+                        SaveEmployeeData(fileName);
                         break;
 
                     default:
@@ -164,6 +82,114 @@ namespace Practice_Final_EmployeeSchedule
                         break;
                 }
             }//end outer loop
+        }//end Main
+
+
+        private static void AddEmployeeData()
+        {
+            Console.Write("Enter the Employee's first name: ");
+            string empName = Console.ReadLine();
+            Console.Write("Enter the date s/he worked (mm/dd/yyyy): ");
+            if (DateTime.TryParse(Console.ReadLine(), out DateTime date))
+            {
+                for (int i = 0; i < employees.Length; i++)
+                {
+                    if (employees[i] == null)
+                    {
+                        employees[i] = empName;
+                        dateTimes[i] = date.ToShortDateString();
+                        break;
+                    }
+                }
+            }
+            else
+            {
+                Console.WriteLine("***Error: Invalid Data");
+                
+            }
+        }
+
+        private static void ListEmployeeData()
+        {
+            Console.WriteLine("All Employee Work Dates");
+            Console.WriteLine($"{"Date",-12}{"Name",-12}");
+            Console.WriteLine($"{"----",-12}{"----",-12}");
+            int workerCounter = 0;
+            for (int i = 0; i < employees.Length; i++)
+            {
+                if (employees[i] != null && employees[i] != "")
+                {
+                    Console.WriteLine($"{dateTimes[i],-12}{employees[i],-12}");
+                    workerCounter++;
+                }
+            }
+            Console.WriteLine($"{workerCounter} employees listed\n");
+        }
+
+        private static void ListEmployeesByDate()
+        {
+            Console.Write("Enter the date for reporting (mm/dd/yyyy): ");
+            if (DateTime.TryParse(Console.ReadLine(), out DateTime dt))
+            {
+                Console.WriteLine($"All Employee Working on {dt.ToShortDateString()}");
+                Console.WriteLine($"{"Date",-12}{"Name",-12}");
+                Console.WriteLine($"{"----",-12}{"----",-12}");
+                int counter = 0;
+                for (int i = 0; i < employees.Length; i++)
+                {
+                    if (dateTimes[i] == dt.ToShortDateString())
+                    {
+                        Console.WriteLine($"{dateTimes[i],-12}{employees[i],-12}");
+                        counter++;
+                    }
+                }
+                Console.WriteLine($"{counter} employees listed\n");
+            }
+            else
+            {
+                Console.WriteLine("***Error: Invalid Date");
+            }
+        }
+
+        private static void ListDatesByEmployee()
+        {
+            Console.Write("Enter employee name to report: ");
+            string employeeSearch = Console.ReadLine();
+
+            Console.WriteLine($"\nAll Work Dates for {employeeSearch}");
+            Console.WriteLine($"{"Date",-12}{"Name",-12}");
+            Console.WriteLine($"{"----",-12}{"----",-12}");
+            int empCounter = 0;
+            for (int i = 0; i < employees.Length; i++)
+            {
+                if (employees[i] == employeeSearch)
+                {
+                    Console.WriteLine($"{dateTimes[i],-12}{employees[i],-12}");
+                    empCounter++;
+                }
+            }
+            Console.WriteLine($"{empCounter} dates listed\n");
+        }
+
+        private static void SaveEmployeeData(string fileName)
+        {
+            string employeeData = null;
+            string dateTimeData = null;
+
+            for (int i = 0; i < employees.Length; i++)
+            {
+                employeeData += employees[i] + ",";
+                dateTimeData += dateTimes[i] + ",";
+            }
+            Console.Write("Saving data...");
+            using (StreamWriter writer = new StreamWriter(fileName, false))
+            {
+                writer.WriteLine(employeeData);
+                writer.WriteLine(dateTimeData);
+            }
+            Console.WriteLine("done");
+            Console.WriteLine("\nExiting program...");
+            Environment.Exit(0);
         }
     }
 }
