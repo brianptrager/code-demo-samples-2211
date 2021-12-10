@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bptnbs\\source\\repos\\CoolDemos\\FormattingStrings\\FormattingStrings.csproj": {}
+    "C:\\Users\\brian.000\\Source\\Repos\\code-demo-samples-2211\\FormattingStrings\\FormattingStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bptnbs\\source\\repos\\CoolDemos\\FormattingStrings\\FormattingStrings.csproj": {
+    "C:\\Users\\brian.000\\Source\\Repos\\code-demo-samples-2211\\FormattingStrings\\FormattingStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\CoolDemos\\FormattingStrings\\FormattingStrings.csproj",
+        "projectUniqueName": "C:\\Users\\brian.000\\Source\\Repos\\code-demo-samples-2211\\FormattingStrings\\FormattingStrings.csproj",
         "projectName": "FormattingStrings",
-        "projectPath": "C:\\Users\\bptnbs\\source\\repos\\CoolDemos\\FormattingStrings\\FormattingStrings.csproj",
-        "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bptnbs\\source\\repos\\CoolDemos\\FormattingStrings\\obj\\",
+        "projectPath": "C:\\Users\\brian.000\\Source\\Repos\\code-demo-samples-2211\\FormattingStrings\\FormattingStrings.csproj",
+        "packagesPath": "C:\\Users\\brian.000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brian.000\\Source\\Repos\\code-demo-samples-2211\\FormattingStrings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\bptnbs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brian.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

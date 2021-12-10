@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e0dVNZkeW0hFQQT5sNSCnj8Vmp2SGUaWzImfGyyY9L+QUmMHkvX1q4UCPnDjw6HdTRPrFXL0ADRxGkH9WW5oiw==",
+  "dgSpecHash": "mLKOFb4vGtiL40fl7DTa5gl7tesslooZ1bm/WH9JrvTutYFZ6Uw2keb0W97Ms3V9XltUwKpbpvkQ6BniRdzJ5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bptnbs\\source\\repos\\CoolDemos\\JSONTime\\JSONTime.csproj",
+  "projectFilePath": "C:\\Users\\brian.000\\Source\\Repos\\code-demo-samples-2211\\JSONTime\\JSONTime.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bptnbs\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\brian.000\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

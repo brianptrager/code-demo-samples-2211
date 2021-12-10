@@ -1,0 +1,16 @@
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\bin\Debug\net5.0\Practice_Final_RustyBuckets.exe
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\bin\Debug\net5.0\Practice_Final_RustyBuckets.deps.json
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\bin\Debug\net5.0\Practice_Final_RustyBuckets.runtimeconfig.json
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\bin\Debug\net5.0\Practice_Final_RustyBuckets.runtimeconfig.dev.json
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\bin\Debug\net5.0\Practice_Final_RustyBuckets.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\bin\Debug\net5.0\ref\Practice_Final_RustyBuckets.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\bin\Debug\net5.0\Practice_Final_RustyBuckets.pdb
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\obj\Debug\net5.0\Practice_Final_RustyBuckets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\obj\Debug\net5.0\Practice_Final_RustyBuckets.AssemblyInfoInputs.cache
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\obj\Debug\net5.0\Practice_Final_RustyBuckets.AssemblyInfo.cs
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\obj\Debug\net5.0\Practice_Final_RustyBuckets.csproj.CoreCompileInputs.cache
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\obj\Debug\net5.0\Practice_Final_RustyBuckets.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\obj\Debug\net5.0\ref\Practice_Final_RustyBuckets.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\obj\Debug\net5.0\Practice_Final_RustyBuckets.pdb
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\obj\Debug\net5.0\Practice_Final_RustyBuckets.genruntimeconfig.cache
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Practice_Final_RustyBuckets\obj\Debug\net5.0\Practice_Final_RustyBuckets.csproj.AssemblyReference.cache

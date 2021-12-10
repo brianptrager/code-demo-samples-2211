@@ -8,25 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bptnbs\\.nuget\\packages\\": {},
+    "C:\\Users\\brian.000\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\CoolDemos\\RandomGame\\RandomGame.csproj",
+      "projectUniqueName": "C:\\Users\\brian.000\\Source\\Repos\\code-demo-samples-2211\\RandomGame\\RandomGame.csproj",
       "projectName": "RandomGame",
-      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\CoolDemos\\RandomGame\\RandomGame.csproj",
-      "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\CoolDemos\\RandomGame\\obj\\",
+      "projectPath": "C:\\Users\\brian.000\\Source\\Repos\\code-demo-samples-2211\\RandomGame\\RandomGame.csproj",
+      "packagesPath": "C:\\Users\\brian.000\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brian.000\\Source\\Repos\\code-demo-samples-2211\\RandomGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\bptnbs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brian.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

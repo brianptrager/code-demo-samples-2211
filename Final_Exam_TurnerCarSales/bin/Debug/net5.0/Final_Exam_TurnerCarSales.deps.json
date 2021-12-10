@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Final_Exam_TurnerCarSales/1.0.0": {
+        "runtime": {
+          "Final_Exam_TurnerCarSales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final_Exam_TurnerCarSales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

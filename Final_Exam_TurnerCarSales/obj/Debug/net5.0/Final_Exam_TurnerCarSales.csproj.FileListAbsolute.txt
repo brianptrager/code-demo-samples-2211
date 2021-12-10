@@ -1,0 +1,16 @@
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\bin\Debug\net5.0\Final_Exam_TurnerCarSales.exe
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\bin\Debug\net5.0\Final_Exam_TurnerCarSales.deps.json
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\bin\Debug\net5.0\Final_Exam_TurnerCarSales.runtimeconfig.json
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\bin\Debug\net5.0\Final_Exam_TurnerCarSales.runtimeconfig.dev.json
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\bin\Debug\net5.0\Final_Exam_TurnerCarSales.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\bin\Debug\net5.0\ref\Final_Exam_TurnerCarSales.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\bin\Debug\net5.0\Final_Exam_TurnerCarSales.pdb
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\obj\Debug\net5.0\Final_Exam_TurnerCarSales.csproj.AssemblyReference.cache
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\obj\Debug\net5.0\Final_Exam_TurnerCarSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\obj\Debug\net5.0\Final_Exam_TurnerCarSales.AssemblyInfoInputs.cache
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\obj\Debug\net5.0\Final_Exam_TurnerCarSales.AssemblyInfo.cs
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\obj\Debug\net5.0\Final_Exam_TurnerCarSales.csproj.CoreCompileInputs.cache
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\obj\Debug\net5.0\Final_Exam_TurnerCarSales.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\obj\Debug\net5.0\ref\Final_Exam_TurnerCarSales.dll
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\obj\Debug\net5.0\Final_Exam_TurnerCarSales.pdb
+C:\Users\brian.000\Source\Repos\code-demo-samples-2211\Final_Exam_TurnerCarSales\obj\Debug\net5.0\Final_Exam_TurnerCarSales.genruntimeconfig.cache
